@@ -1,0 +1,33 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# LangChain & AI
+langchain
+langchain-openai
+langchain_google_genai
+langchain-qdrant
+langchain-community
+langchain-text-splitters
+
+# Vector Database
+qdrant-client
+
+# Document Processing
+pypdf
+python-docx
+
+# Configuration & Validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# Logging & Monitoring
+structlog
+langsmith==0.4.55
+
+# HTTP Client
+httpx
+datasets
+ragas==0.3.7
